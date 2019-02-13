@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Beth3346/elr-popovers.svg?branch=master)](https://travis-ci.org/Beth3346/elr-popovers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![codecov](https://codecov.io/gh/Beth3346/elr-popovers/branch/master/graph/badge.svg)](https://codecov.io/gh/Beth3346/elr-popovers)
-[![npm](https://img.shields.io/npm/dm/elr-popovers.svg?style=flat)]()
+[![npm](https://img.shields.io/npm/dm/elr-popovers.svg?style=flat)]() [![Greenkeeper badge](https://badges.greenkeeper.io/Beth3346/elr-popovers.svg)](https://greenkeeper.io/)
 
 popovers
 
